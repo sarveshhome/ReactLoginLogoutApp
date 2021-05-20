@@ -5,6 +5,13 @@
 
 `netlify deploy --prod`
 
+publish website this url
+
+`https://reactloginlogoutapp.netlify.app`
+
+`https://60a6042af4c2b5c95c90f96e--reactloginlogoutapp.netlify.app`
+
+
 
 
 
